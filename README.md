@@ -1,10 +1,13 @@
 # Spatial Web Orchestration
-Welcome to the IXO Spatial Web Orchestration repository! This document provides an overview of orchestration concepts within the context of the IXO Spatial Web, emphasizing the importance of object capabilities and secure computation. As we navigate through this overview, you'll find detailed explanations of orchestration, its objectives, and how it integrates with object capabilities and zCaps.
+Welcome to the IXO Spatial Web Orchestration repository! 
+Let's start with an overview of orchestration concepts within the context of the IXO Spatial Web by emphasizing the importance of Object Capabilities and secure computation. 
 
 ## What is the Spatial Web?
 
 The IXO [Spatial Web](https://vision.hipeac.net/the-next-computing-paradigm-ncp--the-spatial-web.html) Platform uses Web 3.0, AI, and multi-dimentional mapping in ways that seamlessly integrate the physical and digital realms. This enables us to create and operate Digital Twin systems that can represent physical-world properties, as well as cognitive systems that are intangible, such as Projects.
+
 Traditional web experiences that exist primarily on flat screens and Internet protocols generally route information between servers, through IP domain addressing. In contrast, the Spatial Web creates multi-dimensional domains, using cryptographically authenticated digital identifiers (DIDs) to address and interact with people, places, and things. 
+
 By mapping digital information spatially onto real-world objects and locations, the Spatial Web enhances user experiences and fosters new forms of engagement, paving the way for smarter cities, immersive experiences, and interconnected systems that redefine how we live and work. This has the potential to [unlock tranformative impacts](https://www.thedigitalspeaker.com/unlocking-reality-spatial-web-transformative-impact/).
 
 ## What is Orchestration?
